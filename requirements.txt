@@ -1,0 +1,7 @@
+click
+sqlalchemy
+sqlalchemy_utils
+prettytable
+pymysql
+pyyaml
+flask

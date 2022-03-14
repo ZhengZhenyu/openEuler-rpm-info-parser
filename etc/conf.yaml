@@ -1,0 +1,7 @@
+working_dir: /opt/omni-workspace
+sig_list: /opt/openEuler-rpm-info-parser/etc/all_sigs.json
+release_list: /opt/openEuler-rpm-info-parser/etc/releases.json
+db_server: 119.8.161.105
+db_port: 3306
+db_user: insight
+db_password: openEulerinsight

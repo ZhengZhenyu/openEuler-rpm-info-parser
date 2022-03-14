@@ -1,0 +1,10 @@
+{
+  "releases": [
+    "openEuler-21.03",
+    "openEuler-20.03-LTS",
+    "openEuler-20.03-LTS-SP1",
+    "openEuler-20.03-LTS-SP2",
+    "openEuler-20.03-LTS-SP3",
+    "openEuler-20.09"
+  ]
+}
